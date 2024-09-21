@@ -1,3 +1,4 @@
+git branch -M main
 # Front-end Style Guide
 
 ## Layout
